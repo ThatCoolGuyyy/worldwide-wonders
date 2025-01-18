@@ -11,7 +11,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    https://github.com/ThatCoolGuyyy/worldwide-wonders.git
+    git clone https://github.com/ThatCoolGuyyy/worldwide-wonders.git
     cd worldwide-wonders
     ```
 
